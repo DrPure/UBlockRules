@@ -1,0 +1,144 @@
+pan.baidu.com###doc_main > .module-header > .module-header-wrapper > .yun-header > .header-union
+37.com
+down.ali213.net###ShowDIV
+pan.baidu.com###layoutMain > .g-clearfix.module-toolbar > .prev-dom
+portablesoft.ctfile.com###free_downlinks > ul > li:nth-of-type(3)
+www.hao123.com###__elm_0_2
+www.hao123.com##.treasure-game
+yuancheng.xunlei.com###rightop-vip
+yuancheng.xunlei.com###tasklist-toolbox > .add_cartbox
+yuancheng.xunlei.com###sidebar-addon-list
+www.hao123.com###__elm_0_8 > .cjcard2017 > .cjcard2017-stage > .js-preload.stage
+www.hao123.com###hao123-shortvideo
+www.hao123.com###hao123-game
+www.hao123.com###hao123-lbspanel
+www.hao123.com###hao123-wuliao
+www.hao123.com###shortcut-box
+www.hao123.com###headJoke
+www.hao123.com###__wgt_0_8
+www.hao123.com###layoutContainer > .layout-container-inner.s-sbg2.g-sbg2 > .hotsearchCon > .js-hotsearch-box.hotsearch-box > .hotsearchtop
+www.hao123.com###layoutContainer > .layout-container-inner.s-sbg2.g-sbg2 > .hao123-search-panel-box > .search-fixed.hao123-search-panel.g-wd > .hotsearchCon
+www.hao123.com###noticeLink
+www.hao123.com###siye
+www.hao123.com##.rightTip
+www.hao123.com##.rightTip
+www.hao123.com##.hot-num
+www.4399.com##img[src="http://a.5054399.com/4399_img/201608/14715691928a398b.gif"]
+www.4399.com###randtip
+www.baidu.com##.s-opacity-border4-top.s-loading
+www.hao123.com###erjiBottom
+www.hao123.com###__wgt_0_53 > .js_content.content-pic > .selected > .pic
+www.hao123.com###hao123-relax
+www.hao123.com###hao123-footer
+portal.qiniu.com##.sn-warning.ng-scope.sn
+portal.qiniu.com###toast-container
+pan.baidu.com##.header-union
+user.qzone.qq.com##.qz_mask
+user.qzone.qq.com###dialog_main_1
+csol.tiancity.com##td:nth-of-type(4)
+csol2.tiancity.com##td:nth-of-type(4)
+pan.baidu.com##.welcome-mask
+pan.baidu.com##.welcome-box
+www.4399.com##.skinlk-r
+u.4399.com##.evt_sj
+123.206.50.38###iframeSRC
+123.206.50.38##.tbtitle:nth-of-type(3) > tbody
+www.hao123.com###sethome
+www.4399.com##.skinlk-l
+www.4399.com##.g-box
+www.4399.com##.s-box
+eyun.baidu.com##.btn-big-red.right-side-btn
+pan.baidu.com##.vip-privilege
+pan.baidu.com##.desc-box
+pan.baidu.com##.app-center
+i.qq.com###adImg
+i.qq.com##.icon_adv_logo.ui_icon
+i.qq.com##.lay_foot > .lay_inner
+i.qq.com##.author-info
+i.qq.com##.linwei-area
+user.qzone.qq.com##.clearfix.head-detail-info
+user.qzone.qq.com###tb_vip_li
+user.qzone.qq.com##.wing-fly.qz-app-flag > .icon-qzphone.ui-icon
+user.qzone.qq.com###qz-head-level
+user.qzone.qq.com###applist_html > .bd
+user.qzone.qq.com###tab_menu_app
+user.qzone.qq.com###QM_Container_100002
+user.qzone.qq.com##.bor2.bg2.fn_accessLog_tips
+www.hao123.com##.header-browser
+fanyi.youdao.com###errorHolder
+fanyi.youdao.com##.sponsor-content
+fanyi.baidu.com##.manual-trans-info
+fanyi.baidu.com##.download-plugin.guide-list
+fanyi.baidu.com##.download-guide
+fanyi.baidu.com##.manual-trans-btn
+fanyi.baidu.com##.extra-btn.feedback-btn
+fanyi.baidu.com##.cleafix.footer
+www.sina.com.cn##.tn-nav > .tn-title:nth-of-type(4) > .tn-tab
+www.hao123.com##.vip-hook.vip.g-ib
+www.hao123.com##.list > li:nth-of-type(1)
+www.2345.com###dko45
+www.2345.com###search-bd-ad
+www.2345.com###header-news01 > ul
+www.2345.com###userct4
+www.2345.com##.top
+www.2345.com##.top_w
+www.2345.com###map_game
+www.2345.com###map_video
+www.2345.com###map_these
+www.2345.com###map_life
+www.2345.com###footer
+www.2345.com###qovifk
+www.2345.com###sidenav
+www.2345.com###iapi0
+www.2345.com###right
+www.7k7k.com###J-header-slider
+www.7k7k.com##.skin-Rlink1.skin-Rlink
+www.7k7k.com##.skin-Llink1.skin-Llink
+www.7k7k.com##.main-mod.cf > .ui-slide
+www.7k7k.com###J-page-right-side-random-top-index
+www.7k7k.com###J-player-recommend-box
+ui.ptlogin2.qq.com###del_touch_p
+yuancheng.xunlei.com##.add_cartbox
+yuancheng.xunlei.com###sidebar-addon-list
+yuancheng.xunlei.com###rightop-vip
+yuancheng.xunlei.com##.speed_link
+m.douban.com##a[href^="https://www.douban.com/doubanapp/card/log"] > span
+portal.qiniu.com###support-tab
+portal.qiniu.com##.ng-scope.static-notification
+ui.ptlogin2.qcloud.com###del_touch_p
+aq.qq.com###ad_app_priv
+pan.baidu.com##.welcome-box
+pan.baidu.com##.welcome-mask
+pan.baidu.com##.welcome-box
+pan.baidu.com##.welcome-mask
+w.mail.qq.com##.top_announce_mobileqq.top_announce
+fanyi.baidu.com##.bottom-intro
+fanyi.baidu.com##.right-arrow.menu-border:nth-of-type(3)
+fanyi.baidu.com##li:nth-of-type(4)
+fanyi.baidu.com##.android-style.article
+baidu.com/se/static*
+coding.net##.android.smart-app-banner
+h5.qzone.qq.com###nav_bar_vip
+ui.ptlogin2.qq.com###guideJump
+ui.ptlogin2.qq.com###btn_app_down
+h5.qzone.qq.com##.ico-vip.ico
+h5.qzone.qq.com##li:nth-of-type(6)
+h5.qzone.qq.com##.ui-list-view:nth-of-type(2)
+h5.qzone.qq.com##.l1.vip.expired
+h5.qzone.qq.com###top_header > li:nth-of-type(4)
+h5.qzone.qq.com###nav_bar_topicgroup
+h5.qzone.qq.com##.J_links.links
+h5.qzone.qq.com##.dataItem.feed:nth-of-type(1) > .hd > .vip-user.info > .l6.vip
+tbs.drpure.pw##.panel-danger.panel
+4399.com##.tdc
+4399.com##.reco
+4399.com##.top
+qzone.qq.com##.lay_foot
+qzone.qq.com##.login_head
+user.qzone.qq.com###tb_app_li
+coolapk.com##div.ex-page-header:nth-child(2) > div.container > div.ex-page-topbar > div.row.ex-page-titlebar > div.col-md-4.hidden-xs.hidden-sm:last-child
+coolapk.com##div.navbar.navbar-inverse.navbar-fixed-top.ex-navbar:first-child > div.container > div.collapse.navbar-collapse.navbar-left.navbar-collapse-menu:nth-child(2) > ul.nav.navbar-nav > li:last-child
+youku.com##.g-nav-appdown
+3366.com###header_operator
+3366.com##.wxcode
+user.qzone.qq.com##.ui-icon, .icon-qzphone, .qz-app-flag
