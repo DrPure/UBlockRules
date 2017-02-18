@@ -142,3 +142,4 @@ youku.com##.g-nav-appdown
 3366.com###header_operator
 3366.com##.wxcode
 user.qzone.qq.com##.ui-icon, .icon-qzphone, .qz-app-flag
+taobao.com/js/smartbanner*
