@@ -143,3 +143,35 @@ youku.com##.g-nav-appdown
 3366.com##.wxcode
 user.qzone.qq.com##.ui-icon, .icon-qzphone, .qz-app-flag
 taobao.com/js/smartbanner*
+baidu.com###navs
+baidu.com##.blank-frame
+baidu.com###bottom
+baidu.com###menu-container
+baidu.com###logo
+baidu.com###weather
+baidu.com###userinfo-wrap
+baidu.com##.con-wrap > .se-inner
+baidu.com###index-box
+baidu.com###head
+baidu.com###page-copyright
+baidu.com###page-ft
+baidu.com##.rw-title
+baidu.com##b-scroll
+baidu.com###page-tips
+baidu.com###se-box
+baidu.com##.wa-sam-wz-micro-video3-wrapper
+baidu.com##.wa-realtime-list
+baidu.com##.c-gap-bottom-large
+baidu.com##.c-line-bottom
+baidu.com##.wa-we-image
+baidu.com##.c-recomm-wrap.c-container
+baidu.com##.wa-image
+baidu.com##.wa-wise-app-desc
+baidu.com##.wa-wise-app-info-metabar
+baidu.com##.wa-wise-app-searchhook
+wapbaike.baidu.com###J-attach-top
+||baidu.com/se/static/js/modules/invoke/app
+||taobao.com/js/smartbanner
+||alicdn.com/mtb/lib-smartbanner-plus
+||bkssl.bdimg.com/static/wiki-mobile-lemma/widget/beforeContent-n/topAttach
+@@/share/share_$domain=wapbaike.baidu.com
